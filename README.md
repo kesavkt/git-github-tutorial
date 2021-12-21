@@ -1,2 +1,2 @@
 # git-github-tutorial
-Git notes from Edureka
+Git notes from Edureka. For learning purpose
